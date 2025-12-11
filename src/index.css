@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    body{
+        @apply bg-gradient-to-r from-red-600 via-amber-600 to-amber-500 bg-[length:200%_200%] animate-moveGradient h-screen
+    }
+}
