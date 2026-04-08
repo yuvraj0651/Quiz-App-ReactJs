@@ -1,16 +1,36 @@
-# React + Vite
+# 🧠 Quiz App 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+An interactive Quiz Application that allows users to attempt multiple-choice questions and get instant results with score tracking.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- ❓ Multiple-choice questions
+- ⏱️ Score tracking
+- 🔄 Dynamic question rendering
+- 📱 Responsive UI
+- 🌙 Dark mode
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Key Learnings
+- State-driven UI updates
+- Conditional rendering
+- User interaction handling
+
+---
+
+## 🚀 Installation
+```bash
+git clone https://github.com/yuvraj0651/Quiz-App-ReactJs.git
+cd Quiz-App-ReactJs
+npm install
+npm run dev
