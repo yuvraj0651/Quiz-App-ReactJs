@@ -1,4 +1,5 @@
 # 🧠 Quiz App 
+![SmartQuiz-App](https://github.com/user-attachments/assets/157fb997-7f85-4640-83db-0dae6fc62814)
 
 ## 📌 Overview
 An interactive Quiz Application that allows users to attempt multiple-choice questions and get instant results with score tracking.
@@ -33,6 +34,11 @@ An interactive Quiz Application that allows users to attempt multiple-choice que
 - State-driven UI updates
 - Conditional rendering
 - User interaction handling
+
+---
+
+## 🔗 Live Demo  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://smartquiz-app.netlify.app/)
 
 ---
 
